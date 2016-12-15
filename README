@@ -1,0 +1,3 @@
+A quick GD example of parsing Linux netstat output, either from a file or "realtime" output. It's fun to watch while browsing, please don't bash me for the stupid placement algorithm (and yes, limited to IPV4 addresses)
+
+Requires Perl GD library
